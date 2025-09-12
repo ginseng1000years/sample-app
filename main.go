@@ -21,6 +21,7 @@ import (
 	"image/color"
 	"image/draw"
 	"image/png"
+	"log" 
 	"net/http"
 )
 
